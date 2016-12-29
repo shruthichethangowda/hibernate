@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src/main/resoucre"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/lib/lib/ant-1.6.5.jar"/>
+	<classpathentry kind="lib" path="E:/lib/lib/ant-antlr-1.6.5.jar"/>
+	<classpathentry kind="lib" path="E:/lib/lib/ant-junit-1.6.5.jar"/>
+	<classpathentry kind="lib" path="E:/lib/lib/ant-launcher-1.6.5.jar"/>
+	<classpathentry kind="lib" path="E:/lib/lib/antlr-2.7.6.jar"/>
+	<classpathentry kind="lib" path="E:/lib/lib/ant-swing-1.6.5.jar"/>
+	<classpathentry kind="lib" path="E:/lib/lib/asm.jar"/>
+	<classpathentry kind="lib" path="E:/lib/lib/asm-attrs.jar"/>
+	<classpathentry kind="lib" path="E:/lib/lib/c3p0-0.9.1.jar"/>
+	<classpathentry kind="lib" path="E:/lib/lib/cglib-2.1.3.jar"/>
+	<classpathentry kind="lib" path="E:/lib/lib/checkstyle-all.jar"/>
+	<classpathentry kind="lib" path="E:/lib/lib/cleanimports.jar"/>
+	<classpathentry kind="lib" path="E:/lib/lib/commons-collections-2.1.1.jar"/>
+	<classpathentry kind="lib" path="E:/lib/lib/commons-logging-1.0.4.jar"/>
+	<classpathentry kind="lib" path="E:/lib/lib/concurrent-1.3.2.jar"/>
+	<classpathentry kind="lib" path="E:/lib/lib/connector.jar"/>
+	<classpathentry kind="lib" path="E:/lib/lib/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="E:/lib/lib/ehcache-1.2.3.jar"/>
+	<classpathentry kind="lib" path="E:/lib/lib/hibernate3.jar"/>
+	<classpathentry kind="lib" path="E:/lib/lib/jaas.jar"/>
+	<classpathentry kind="lib" path="E:/lib/lib/jacc-1_0-fr.jar"/>
+	<classpathentry kind="lib" path="E:/lib/lib/javassist.jar"/>
+	<classpathentry kind="lib" path="E:/lib/lib/jaxen-1.1-beta-7.jar"/>
+	<classpathentry kind="lib" path="E:/lib/lib/jboss-cache.jar"/>
+	<classpathentry kind="lib" path="E:/lib/lib/jboss-common.jar"/>
+	<classpathentry kind="lib" path="E:/lib/lib/jboss-jmx.jar"/>
+	<classpathentry kind="lib" path="E:/lib/lib/jboss-system.jar"/>
+	<classpathentry kind="lib" path="E:/lib/lib/jdbc2_0-stdext.jar"/>
+	<classpathentry kind="lib" path="E:/lib/lib/jgroups-2.2.8.jar"/>
+	<classpathentry kind="lib" path="E:/lib/lib/jta.jar"/>
+	<classpathentry kind="lib" path="E:/lib/lib/junit-3.8.1.jar"/>
+	<classpathentry kind="lib" path="E:/lib/lib/log4j-1.2.11.jar"/>
+	<classpathentry kind="lib" path="E:/lib/lib/oscache-2.1.jar"/>
+	<classpathentry kind="lib" path="E:/lib/lib/proxool-0.8.3.jar"/>
+	<classpathentry kind="lib" path="E:/lib/lib/swarmcache-1.0rc2.jar"/>
+	<classpathentry kind="lib" path="E:/lib/lib/syndiag2.jar"/>
+	<classpathentry kind="lib" path="E:/lib/lib/versioncheck.jar"/>
+	<classpathentry kind="lib" path="E:/lib/lib/xerces-2.6.2.jar"/>
+	<classpathentry kind="lib" path="E:/lib/lib/xml-apis.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
